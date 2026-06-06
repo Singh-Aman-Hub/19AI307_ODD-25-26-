@@ -26,11 +26,6 @@ To write a Java program to demonstrate **reading input using InputStreamReader a
 ## PROGRAM:
 
 ```java
-/*
-Program to implement InputStreamReader using Java
-Developed by: LAHARI A
-RegisterNumber: 212223240111
-*/
 
 import java.io.*;
 
